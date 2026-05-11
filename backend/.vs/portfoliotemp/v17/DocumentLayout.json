@@ -1,0 +1,57 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL\\OneDrive\\Attachments\\Desktop\\new code\\projects\\portfolio-project\\backend\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E4250B28-F010-4910-8B29-F9E51023941F}|portfoliotemp\\portfoliotemp.csproj|c:\\users\\dell\\onedrive\\attachments\\desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4250B28-F010-4910-8B29-F9E51023941F}|portfoliotemp\\portfoliotemp.csproj|solutionrelative:portfoliotemp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E4250B28-F010-4910-8B29-F9E51023941F}|portfoliotemp\\portfoliotemp.csproj|c:\\users\\dell\\onedrive\\attachments\\desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\controllers\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E4250B28-F010-4910-8B29-F9E51023941F}|portfoliotemp\\portfoliotemp.csproj|solutionrelative:portfoliotemp\\controllers\\userinfo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "userinfo.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Attachments\\Desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\Controllers\\userinfo.cs",
+              "RelativeDocumentMoniker": "portfoliotemp\\Controllers\\userinfo.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Attachments\\Desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\Controllers\\userinfo.cs",
+              "RelativeToolTip": "portfoliotemp\\Controllers\\userinfo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:51:15.914Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL\\OneDrive\\Attachments\\Desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\Program.cs",
+              "RelativeDocumentMoniker": "portfoliotemp\\Program.cs",
+              "ToolTip": "C:\\Users\\DELL\\OneDrive\\Attachments\\Desktop\\new code\\projects\\portfolio-project\\backend\\portfoliotemp\\Program.cs",
+              "RelativeToolTip": "portfoliotemp\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-14T12:36:02.474Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

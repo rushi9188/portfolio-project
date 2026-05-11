@@ -1,0 +1,70 @@
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.staticwebassets.endpoints.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.exe
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.deps.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.runtimeconfig.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\portfoliotemp.pdb
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.AssemblyInfo.cs
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\scopedcss\bundle\portfoliotemp.styles.css
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoli.D203580A.Up2Date
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\refint\portfoliotemp.dll
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.pdb
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\portfoliotemp.genruntimeconfig.cache
+C:\Users\DELL\source\repos\portfoliotemp\portfoliotemp\obj\Debug\net8.0\ref\portfoliotemp.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\appsettings.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.staticwebassets.endpoints.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.exe
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.deps.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.runtimeconfig.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\portfoliotemp.pdb
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.csproj.AssemblyReference.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.AssemblyInfoInputs.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.AssemblyInfo.cs
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.csproj.CoreCompileInputs.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\scopedcss\bundle\portfoliotemp.styles.css
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoli.D203580A.Up2Date
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\refint\portfoliotemp.dll
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.pdb
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\portfoliotemp.genruntimeconfig.cache
+C:\Users\DELL\OneDrive\Attachments\Desktop\new code\projects\portfolio-project\backend\portfoliotemp\obj\Debug\net8.0\ref\portfoliotemp.dll
